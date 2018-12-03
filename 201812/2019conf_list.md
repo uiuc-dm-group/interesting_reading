@@ -91,7 +91,17 @@ H5指数：17
 
 
 ### WOSP 2019
+确切的消息还没有。
+根据惯例
+Wednesday, March 7, 23:59 (Hawaii time) — Submission deadline
 
+Wednesday, March 14, 23:59 (Hawaii time) — Extended submission deadline
+
+Saturday, April 7 — Notification of acceptance
+
+Saturday, April 21 — Camera-ready
+
+Monday, May 7 — Workshop
 
 ### WOSP Related Resources
 - MLDM 2019   15th International Conference on Machine Learning and Data Mining MLDM 2019
