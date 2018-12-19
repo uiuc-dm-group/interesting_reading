@@ -8,7 +8,7 @@
 截稿时间：2018年12月10日，还有几天，抓紧机会哦
 H5指数：56
 官网：http://naacl2019.org/
-推特@NACCL HTL：https://twitter.com/naaclhlt
+推特@NACCL HTL：https://twitter.com/naaclhlt~~
 
 ### ICMR，多媒体检索国际会议
 这个是ACM办的。
@@ -88,7 +88,6 @@ https://mobile.twitter.com/ECMLPKDD
 截稿时间：主会议论文7月16日，特殊会议论文9月7日
 H5指数：17
 官网：https://www.icmla-conference.org/icmla19/
-
 
 
 
