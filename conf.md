@@ -2,11 +2,7 @@
 https://2019.jcdl.org/cfps/doctoralconsortium/
 
 
-### WSDM 2019 (overdue) web search and data mining <Jiawei>
-https://twitter.com/WSDMSocial?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3AWSDMSocial&ref_url=http%3A%2F%2Fwww.wsdm-conference.org%2F2017%2F
 
-### SWM 2017 (not held in 2019) web scholarly mining
-https://ornlcda.github.io/SWM2017/index.html
 
 ### wosp 2019 (due: unknown yet)
 https://wosp.core.ac.uk/jcdl2019/index.html
@@ -23,3 +19,17 @@ https://wosp.core.ac.uk/jcdl2019/index.html
 
 ### PRICAI，环太平洋国际人工智能会议
 举办时间：8月26日-30日 举办地点：斐济Yanuca岛 截稿时间：2月28日 H5指数：9 官网：https://www.pricai.org/2019/ 推特@PRICAI 2019：https://twitter.com/pricai2019
+
+
+
+
+##
+
+
+
+
+### WSDM 2019 (overdue) web search and data mining <Jiawei>
+https://twitter.com/WSDMSocial?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3AWSDMSocial&ref_url=http%3A%2F%2Fwww.wsdm-conference.org%2F2017%2F
+
+### SWM 2017 (not held in 2019) web scholarly mining
+https://ornlcda.github.io/SWM2017/index.html
